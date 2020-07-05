@@ -52,6 +52,13 @@
   <component name="FavoritesManager">
     <favorites_list name="JavaFxApplication" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -179,6 +186,7 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1593958872116" duration="2960000" />
       <workItem from="1593964183971" duration="609000" />
+      <workItem from="1593965839085" duration="369000" />
     </task>
     <servers />
   </component>
@@ -188,5 +196,8 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>

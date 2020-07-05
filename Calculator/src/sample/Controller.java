@@ -42,6 +42,8 @@ public class Controller implements Initializable {
 
     @FXML
     private void onNumberClick(ActionEvent event) {
+
+
         if (event.getSource() instanceof Button) {
             Button btn = (Button) event.getSource();
             if (isOperatorPressed) {
